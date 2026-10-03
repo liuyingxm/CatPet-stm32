@@ -1,0 +1,37 @@
+# Keil build output
+Objects/
+Listings/
+DebugConfig/
+
+# Local IDE state
+*.uvopt
+*.uvoptx
+*.uvgui*
+
+# Generated binaries and reports
+*.o
+*.obj
+*.d
+*.dep
+*.crf
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.lnp
+*.sct
+*.build_log.htm
+*.log
+
+# Editor backups and temporary files
+*.bak
+*.BAK
+*.tmp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
